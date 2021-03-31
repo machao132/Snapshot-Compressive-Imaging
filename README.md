@@ -19,7 +19,11 @@ https://github.com/Phoenix-V/tensor-admm-net-sci
 https://github.com/xinxinmiao/lambda-net
   
 U-net  
-Automated Design of Deep Learning Methods for Biomedical Image Segmentation  
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation  
 https://github.com/JielongZ/full-reimplementation-of-unet  
+  
+Automated Design of Deep Learning Methods for Biomedical Image Segmentation  
+https://github.com/MIC-DKFZ/nnUNet  
   
   
